@@ -31,8 +31,11 @@ You should now be read to use the statistics.ipynb
 
 # The Pico Binary
 Your board should be flashed. However, you can flash it using picotool if you have it installed.
+
 picotool reboot -uf 
+
 picotool load carrier_receiver_baseband.elf
+
 picotool reboot
 
 
