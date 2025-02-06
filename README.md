@@ -9,7 +9,7 @@ If the board is working you should see something outputs similar to the one belo
 
 00:00:05.775 | 0f 00 00 00 13 5d 1f 43 1b 45 25 6f 21 fe 0f 7e | -69 CRC error
 
-If you see this it means that the the tag, the carrier and the receiver are all working as they should be.
+If you see this it means that the tag, the carrier, and the receiver are all working as they should be.
 
 
 ## Statistics Notebook
