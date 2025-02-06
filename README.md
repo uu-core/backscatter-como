@@ -1,6 +1,3 @@
-# General
-
-
 #  Setup
 ## Checking the connection
 The pico board is already flashed. Make sure that you have inserted the antennas in the GP6 and GP27 ports. The received packets are directly printed to the serial output.
