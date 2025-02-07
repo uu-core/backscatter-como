@@ -28,6 +28,9 @@ Example for fish shell:
 
 You should now be read to use the statistics.ipynb
 
+### Spreadsheet for calculation of parameters and result collection
+[Google Docs](https://docs.google.com/spreadsheets/d/1UoZbQkex12WCWrAhoyDQIHH3KH288PAf-V3whIGcxls/edit)
+
 
 # The Pico Binary
 Your board should be flashed. However, you can flash it using picotool if you have it installed.
