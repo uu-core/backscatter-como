@@ -28,9 +28,11 @@ Example for fish shell:
 
 You should now be read to use the statistics.ipynb
 
-### Step 1: hello world (listen to received data)
-### Step 2: set parameters and analyse received data
-### Step 3: compare different configurations
+### Hands on
+* Step 1: hello world (listen to received data)
+* Step 2: set parameters and analyse received data
+* Step 3: compare different configurations
+* Step 4: distance (using external carrier and receiver. This step requires TI SmartRF studio on Windows)
 
 ### Spreadsheet for calculation of parameters and result collection
 [Google Docs](https://docs.google.com/spreadsheets/d/1UoZbQkex12WCWrAhoyDQIHH3KH288PAf-V3whIGcxls/edit)
